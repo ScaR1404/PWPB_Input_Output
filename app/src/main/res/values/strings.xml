@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AplikasiInput</string>
+    <string name="nama">Nama Lengkap</string>
+    <string name="alamat">Alamat</string>
+    <string name="barang">Nama Barang</string>
+    <string name="jumlah">Jumlah Barang</string>
+    <string name="tombol">Kirim</string>
+    <string name="plnama">Masukkan Nama Anda</string>
+    <string name="plalamat">Masukkan Alamat Anda</string>
+    <string name="plbarang">Masukkan Nama Barang</string>
+    <string name="pljumlah">Masukkan Jumlah Barang</string>
+</resources>
